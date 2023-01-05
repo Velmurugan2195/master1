@@ -15,6 +15,15 @@ public class Hello {
 		System.out.println("hindi");
 
 	}
+	private void marathi() {
+		System.out.println("marathi");
+	}
+	private void malayam() {
+		System.out.println("malayalam");
+	}
+	private void gujarathi() {
+		System.out.println("gurajat");
+	}
 	
 
 }
