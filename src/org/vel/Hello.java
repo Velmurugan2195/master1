@@ -21,6 +21,9 @@ public class Hello {
 	private void malayam() {
 		System.out.println("malayalam");
 	}
+	private void gujarathi() {
+		System.out.println("gurajat");
+	}
 	
 
 }
